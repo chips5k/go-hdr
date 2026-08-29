@@ -42,3 +42,9 @@ Use the included Makefile targets for easy development and compilation:
 #### Linux TODO
 
 `Not yet implemented`
+
+## TODO
+
+- Output whether HDR supported (and prevent toggling)
+- Proactively check HDR State when viewing the APP to detect changes accurately
+- Test on other setups/windows variants as windows seems incredibly janky with how hdr is reported
