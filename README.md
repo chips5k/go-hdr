@@ -4,6 +4,8 @@ A small, vibecoded desktop utility built with Go and Fyne to toggle HDR mode on 
 
 I threw this together because existing apps were not quite right for me.
 
+![Screenshot of Go HDR](example.png)
+
 ## Features
 
 Per-Monitor Controls: Detects active physical displays along with their attached GPU / Video Card details.
