@@ -8,7 +8,7 @@ I threw this together because existing apps were not quite right for me.
 
 Per-Monitor Controls: Detects active physical displays along with their attached GPU / Video Card details.
 
-Instant HDR Toggling: Quick checkbox controls to switch between SDR and HDR modes on the fly. - not yet implemented
+Instant HDR Toggling: Quick checkbox controls to switch between SDR and HDR modes on the fly.
 
 ## Getting Started
 
