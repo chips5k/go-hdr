@@ -1,6 +1,8 @@
 # Go HDR
 
-A small, vibecoded desktop utility built with Go and Fyne to toggle HDR mode on individual monitors.
+> **Personal Utility:** A lightweight desktop tool built to toggle HDR mode per monitor on Windows to scratch my own hardware itch.
+
+A desktop utility built with Go and Fyne to toggle HDR mode on individual monitors.
 
 I threw this together because existing apps were not quite right for me.
 
